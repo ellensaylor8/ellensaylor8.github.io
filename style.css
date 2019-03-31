@@ -1,7 +1,8 @@
-h1{
-  justify-content: center;
+h3{
+  text-align: center;
 }
 
-p{
-color:red
+ul {
+  list-style-type: none;
 }
+

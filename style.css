@@ -41,6 +41,8 @@ li{
 
 #date{
   float:right;
+  position:relative;
+  top: 500px;
 }
 
  hr{

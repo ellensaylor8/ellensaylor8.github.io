@@ -1,6 +1,9 @@
 body{
   font-family: Times New Roman;
 }
+p{
+  padding: 10px;
+}
 
 #list2{
   list-style-type: none;

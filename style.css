@@ -19,6 +19,12 @@ p{
 #list2{
   list-style-type: none;
   margin-left:0px;
+  padding:0px;
+}
+
+li{
+  margin-top:0px;
+  padding:0px;
 }
 
 #header2{

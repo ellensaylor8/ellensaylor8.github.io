@@ -1,9 +1,11 @@
 body{
   font-family: Times New Roman;
 }
-.education{
-  list-style-type:none;
+
+#list2{
+  list-style-type: none;
 }
+
  hr{
     display: block;
     height: 2px;

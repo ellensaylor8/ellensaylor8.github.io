@@ -39,7 +39,14 @@ li{
   padding:0px;
 }
 
-#date{
+
+#date1{
+  float:right;
+  position:relative;
+  top: 100px;
+}
+
+#date2{
   float:right;
   position:relative;
   top: 150px;

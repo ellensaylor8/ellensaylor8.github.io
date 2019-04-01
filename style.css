@@ -2,8 +2,9 @@ body{
   font-family: Times New Roman;
 }
 
-h3{
+.header{
   text-align: center;
+  font-size: 16px;
 }
 
 ul {

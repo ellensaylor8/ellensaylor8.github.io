@@ -16,6 +16,7 @@ h1{
   text-align: center;
   font-size: 16px;
   margin-top:0px;
+  padding:0px;
 }
 
 p{
@@ -49,13 +50,13 @@ li{
 #date1{
   float:right;
   position:relative;
-  top: 30px;
+  top: 10px;
 }
 
 #date2{
   float:right;
   position:relative;
-  top: 70px;
+  top: 40px;
 }
 
  hr{

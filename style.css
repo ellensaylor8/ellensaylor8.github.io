@@ -17,6 +17,11 @@ header nav{
   align-items: center;
 }
 
+header p{
+  padding: 0 20px;
+  margin:0px;
+}
+
 .header{
   text-align: center;
   font-size: 16px;

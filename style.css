@@ -25,6 +25,7 @@ header p{
 header .row{
   display: flex;
   align-items: center;
+  -webkit-column-span:all;
   column-span:all;
 }
 

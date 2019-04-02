@@ -13,7 +13,8 @@ h1{
 }
 
 .sections{
-  display: inline;
+  display: flex;
+  align-items: center;
 }
 
 .header{

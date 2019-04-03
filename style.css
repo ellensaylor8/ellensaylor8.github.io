@@ -1,10 +1,12 @@
 body{
+  margin:auto;
+  width:800px;
   font-family: Times New Roman;
   background-color: #e6e6e6;
   margin-top:150px;
   margin-bottom:150px;
-  margin-left:550px;
-  margin-right:550px;
+
+
 }
 
 h1{
@@ -28,34 +30,34 @@ header .row{
   column-span:all;
 }
 
-
 .header{
   text-align: center;
-  font-size: 16px;
   margin:0px;
   padding:0px;
 }
 
 p{
   padding:0px;
-  margin-top:0px;
+  margin:0px;
 }
 
 #duties{
   font-size:15px;
-  margin-top:0px;
+  margin-bottom:10px;
 }
 
 #list2{
   list-style-type: none;
   margin-left:0px;
   padding:0px;
+  font-size:14px;
 }
 
 h5{
   margin-bottom:0px;
   padding:0px;
 }
+
 
 li{
   margin-top:0px;
@@ -68,6 +70,9 @@ li{
   padding:0px;
 }
 
+#header3{
+  font-size: 12px
+}
 
 #date1{
   float:right;
@@ -81,12 +86,17 @@ li{
   top: 0px;
 }
 
+#computerSkills{
+  margin-bottom: 0px;
+  font-size:14px;
+}
+
  hr{
     display: block;
     height: 2px;
     border: 0;
     border-top: 1px solid #ccc;
-    margin: 1em 0;
+    margin: 8px;
     padding: 0;
 }
 
